@@ -1,4 +1,11 @@
 div{
     background-color: blueviolet;
     padding: 10px;
+    margin-bottom: 20px;
+}
+.header{
+    font-size: 25px;
+    font-style: italic;
+    color: rgb(17, 167, 204);
+    
 }
